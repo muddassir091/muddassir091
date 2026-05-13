@@ -4,7 +4,7 @@
   </p>
 </div>
 <div>
-  <h1>📖My journey so far</h1>
+  <h1>📖My Journey So Far</h1>
   <p>When I was 10 years old, with the help of youtube tutorials, I managed to figure out how to code simple python scripts. After that, I decided to start making websites. My first few websites were not interactive and just random, but then I learnt how to use javascript to make my websites interactive and css to make them look appealing, which lead to my latest websites. Then, I decided to learn c++ and made a few scripts with that
   </p>
 </div>
