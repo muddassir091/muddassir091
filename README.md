@@ -1,6 +1,6 @@
 <div>
   <h1>💻About Me</h1>
-  <p>I am a 12 year old boy that was born in Spain and later moved to the UK, where I learned to program in python at the age of 10. I have a strong passion for programming and want to become a software engineer when I grow      up
+  <p>I am a 13 year old boy that was born in Spain and later moved to the UK, where I learned to program in python at the age of 10. I have a strong passion for programming and want to become a software engineer when I grow      up
   </p>
 </div>
 <div>
